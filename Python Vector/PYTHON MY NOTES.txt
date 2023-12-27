@@ -1,0 +1,14 @@
+# Modules : a module is a file containing code written by somebody else(usually) which can be imported and used in our programs.
+
+#PIP : pipis the package manager for python you can use pip to install a module on your system.(pip install flask installs flask module)
+
+------- types of module-----
+there arfe two types of modules in python.
+1)Built in modules - pre installed in python.
+2)External Modules - need to install using pip.
+=some example of built in modules are OS,ABC,etc.
+=some example of external modules are tensorflow,flask etc.
+
+# python comment 
+1)single line comment = #
+2)multiline comment = """ multi line comment """

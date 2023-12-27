@@ -1,0 +1,27 @@
+PYTHON.
+[ Date:21-09-2023.]
+start with python3
+1.Clear screen = ctrl+l;
+2.in python 35 keywords  version 3.11 
+  list the keyword:(interactive).
+3.help()=built in function. ex.help( ' keywords ')
+4.is there any digit or speacial char in keywords.
+5.how to assign multiple variable. 
+   name="vector"
+  a,b,c=10,20,30
+
+program 1.WAP to swap two number without using third variable.one line code.
+ans - a,b=10,20
+ a=b,b=a.
+
+[Date: 28-09-2023  ].
+
+how to access vetor student id.
+
+= ssh -p 7777 v22be8a20@blrvectorindia.ddns.net
+
+[Date : 01-10-2023,sunday].
+
+Github Detailes: my github id is : ankurpatel12
+
+
